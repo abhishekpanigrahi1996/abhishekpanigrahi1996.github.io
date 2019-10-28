@@ -5,25 +5,25 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# For details - https://github.com/mmistakes/so-simple-theme & mmistakes.github.io/minimal-mistakes/docs/ (this one is v. useful)
-
 # Site Settings
-locale                   : "en-US"
-title                    : "Raghav Somani"
+locale                   : "Bangalore"
+title                    : "Abhishek Panigrahi"
 title_separator          : "-"
-name                     : &name "Raghav Somani"
-description              : &description "1<sup>st</sup> year Ph.D. student \n University of Washington"
-url                      : https://raghavsomani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Abhishek Panigrahi"
+description              : &description "Research Fellow at Microsoft Research India"
+url                      : https://abhishekpanigrahi1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RaghavSomani/raghavsomani.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default) (Raghav - true has some bug)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "raghavsomani"
+    shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -48,7 +48,6 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-mathjax                  : true
 
 # SEO Related
 google_site_verification :
@@ -58,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -74,46 +73,49 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-111023802-1"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Raghav Somani"
-  avatar           : "profile.jpg"
-  bio              : "1<sup>st</sup> year Ph.D. student in<br>Machine Learning<br>Paul G. Allen School of Computer Science and Engineering"
-  location         : "CSE2 231, Bill & Melinda Gates Center"
-  employer         : "University of Washington"
-  googlescholar    : "https://scholar.google.co.in/citations?user=0M99MEYAAAAJ&hl=en"
-  email            : # "raghavs@cs.washington.edu"
+  name             : "Abhishek Panigrahi"
+  avatar           : "Profile.jpg"
+  bio              : "Research Fellow at Microsoft Research India"
+  location         : "Bangalore"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=oMhp8p8AAAAJ&hl=en"
+  email            : "t-abpani@microsoft.com"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : # "raghavsomani95"
+  facebook         :
   foursquare       :
-  github           : # "RaghavSomani"
+  github           : "https://github.com/abhishekpanigrahi1996"
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "raghavsomani"
-  orcid            : "https://orcid.org/0000-0002-0048-3490"
+  linkedin         : "https://www.linkedin.com/in/abhishek-panigrahi-78824413b"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SomaniRaghav"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : "raghavsomani1995"
+  youtube          :
   wikipedia        :
-  dblp             : "https://dblp.org/pers/hd/s/Somani:Raghav"
+  dblp             : "https://dblp.org/pers/hd/p/Panigrahi:Abhishek"
 
 
 # Reading Files
@@ -128,22 +130,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -171,17 +174,10 @@ kramdown:
   enable_coderay: false
   math_engine: mathjax
 
-
 # Collections
 collections:
   teaching:
     output: false
-    permalink: /:collection/:path/
-  posts:
-    output: true
-    permalink: /:collection/:path/
-  projects:
-    output: true
     permalink: /:collection/:path/
   publications:
     output: true
@@ -190,9 +186,9 @@ collections:
     output: false
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
-  misc:
+  projects:
     output: true
     permalink: /:collection/:path/
 
@@ -206,7 +202,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: true
       share: true
       related: true
@@ -217,24 +213,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: projects
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -244,15 +222,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects    
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
-      layout: single
+      layout: projects
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
@@ -261,14 +239,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _misc
-  - scope:
-      path: ""
-      type: misc
-    values:
-      layout: single
-      author_profile: true
-      comment: true
 
 # Sass/SCSS
 sass:
@@ -284,7 +254,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
