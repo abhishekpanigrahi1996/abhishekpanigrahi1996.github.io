@@ -12,9 +12,6 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-  - title: "Blog Notes"
-    url: /year-archive/
       
   - title: "Publications"
     url: /publications/
@@ -22,7 +19,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Misc"
-    url: /misc/
+  #- title: "Misc"
+  #  url: /misc/
   # - title: "Guide"
   #   url: /markdown/
