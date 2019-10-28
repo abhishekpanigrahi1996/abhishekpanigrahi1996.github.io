@@ -9,14 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Raghav_CV_MSR.pdf){: .btn .btn--info}
+The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Curriculum_Vitae.pdf){: .btn .btn--info}
 
 Research Interests
 ------
-I seek to solve theoretical machine learning problems using ideas from optimization, high dimensional probability theory and statistics.
-
-* Major Interests - Machine Learning, Large Scale Optimization, High dimensional probability
-* Others - Random Matrix theory, Learning Theory, Applied mathematics
+I seek to solve problems involving (a) proposing new algorithms involving large scale optimization and (b) mathematical analysis of deep learning algorithms using Probability Theory and High Dimensional Statistics.
 
 [Publications](https://raghavsomani.github.io/publications/){:target="_blank"}
 ------
@@ -27,11 +24,7 @@ I seek to solve theoretical machine learning problems using ideas from optimizat
 
 Education
 ------
-* Ph.D. student at [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/){:target="_blank"}, 2019 - Present<br>
-[University of Washington](https://www.washington.edu/){:target="_blank"}<br>
-Advisor: [Prof. Sewoong Oh](https://homes.cs.washington.edu/~sewoong/){:target="_blank"}
-* B.Tech. in [Mathematics and Computing](https://www.iitg.ernet.in/maths/acads/btech_struct.php){:target="_blank"}, 2013 - 17<br>
-[Indian Institute of Technology Guwahati](http://www.iitg.ernet.in/){:target="_blank"}
+* B.Tech. in [Computer Science and Engineering](http://cse.iitkgp.ac.in/){:target="_blank"}, 2014 - 18, [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/){:target="_blank"}<br> CGPA - 9.90/10 (Major GPA - 10/10), Institute Rank: 1 (out of 1400 students).
 
 <!-- * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected) -->
@@ -39,23 +32,17 @@ Advisor: [Prof. Sewoong Oh](https://homes.cs.washington.edu/~sewoong/){:target="
 Work experience
 ------
 
-* July 2017 - July 2019: [Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/#!research-fellow-program){:target="_blank"}
+* July 2018 - July 2020 (Expected): [Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/#!research-fellow-program){:target="_blank"}
   * [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"}
-  * Mentors: [Dr. Praneeth Netrapalli](https://www.microsoft.com/en-us/research/people/praneeth/){:target="_blank"} and [Dr. Prateek Jain](https://www.microsoft.com/en-us/research/people/prajain/){:target="_blank"}
-  * Project group: [Provable Non-convex Optimization for Machine Learning Problems](https://www.microsoft.com/en-us/research/project/provable-non-convex-optimization-for-machine-learning-problems/){:target="_blank"}
+  * Mentors: [Dr. Harsha Vardhan Simhadri](http://harsha-simhadri.org/){:target="_blank"} and [Dr. Navin Goyal](https://dblp.uni-trier.de/pers/hd/g/Goyal:Navin){:target="_blank"}
+  * Project group: [Algorithms and Data Sciences](https://www.microsoft.com/en-us/research/group/algorithms-and-data-sciences/){:target="_blank"}
 
-* Summer 2016: Research Intern
-  * [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"}
-  * Supervisor: Dr. Sreangsu Acharyya
-  * Project: [Clustered Monotone Transforms for Rating Factorization](https://raghavsomani.github.io/projects/2018-08-16-project-2){:target="_blank"}
+* Summer 2016: Summer Research Intern
+  * [University of Southern California](https://minghsiehece.usc.edu/){:target="_blank"}
+  * Supervisor: [Dr. C.-C. Jay Kuo](http://mcl.usc.edu/people/cckuo/){:target="_blank"}
+  * Project: [Analysis on Gradient Propagation in Batch Normalized Residual Networks](https://arxiv.org/pdf/1812.00342.pdf){:target="_blank"}
 
-* Summer 2015: Summer Research Intern
-  * [CAFRAL - RBI](http://www.cafral.org.in/)
-  * Supervisor: [Dr. N. R. Prabhala](https://www.rhsmith.umd.edu/directory/nagpurnanand-r-prabhala){:target="_blank"}
-  * Project: [Economic Policy Uncertainty Index](https://raghavsomani.github.io/projects/2015-07-20-project-1){:target="_blank"} - [Intern report](https://drive.google.com/file/d/0B9-6pftL99HLaGNHSlo1bUcxTU0/view?usp=sharing){:target="_blank"}
-
-
-[Projects](https://raghavsomani.github.io/publications/){:target="_blank"}
+[Projects](https://abhishekpanigrahi1996.github.io/publications/){:target="_blank"}
 ------
 
   <ul>{% for post in site.projects reversed %}
