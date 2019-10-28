@@ -1,0 +1,20 @@
+---
+title: "Word2Sense: Sparse Interpretable Word Embeddings"
+collection: publications
+permalink: /publications/2015-10-01-paper-title-number-1
+excerpt: 'The paper has been accepted for <b>Oral</b> presentation (270/3000 submissions <span style="color:red">≈ 9% Acceptance Rate</span>).'
+date: 2019-05-13
+venue: 'Association for Computational Linguistics (ACL)'
+year: '2019'
+authors: 'Abhishek Panigrahi, Harsha Vardhan Simhadri, Chiranjib Bhattacharyya'
+paperurl: 'https://www.aclweb.org/anthology/P19-1570/'
+bib: 'https://www.aclweb.org/anthology/P19-1570.bib'
+
+---
+We present an unsupervised method to generate Word2Sense word embeddings that are interpretable — each dimension of the embedding space corresponds to a ﬁne-grained sense, and the non-negative value of the embedding along the j-th dimension represents the relevance of the j-th sense to the word. The underlying LDA-based generative model can be extended to reﬁne the representation of a polysemous word in a short context, allowing us to use the embeddings in contextual tasks. On computational NLP tasks, Word2Sense embeddings compare well with otherwordembeddingsgeneratedbyunsupervisedmethods. Acrosstaskssuchaswordsimilarity, entailment, sense induction, and contextual interpretation, Word2Sense is competitive with the state-of-the-art method for that task. Word2Sense embeddings are at least as sparse and fast to compute as prior art.
+
+The [paper](https://www.aclweb.org/anthology/P19-1570/){:target="_blank"} has been accepted for **Oral** presentation at the conference. Oral - 270/3000 submissions ≈ **9% Acceptance Rate**.
+
+Please find the below resources
+1. [Proceedings and paper](https://www.aclweb.org/anthology/P19-1570/){:target="_blank"}.
+2. [Video Presentation](https://drive.google.com/file/d/1rwFDIeuuxJvHNYj1qjULT5OUiM4v7A6W/view?usp=sharing){:target="_blank"}.
