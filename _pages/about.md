@@ -14,6 +14,6 @@ Currently, I am a [Research Fellow](https://www.microsoft.com/en-us/research/lab
 
 I help in organizing Theory seminar at Microsoft Research India. Please get in touch if you are interested in presenting your work at MSR India.
 
-
+I will be joining the [Computer Science department](https://www.cs.princeton.edu/){:target="_blank"} of [Princeton University](https://www.princeton.edu/){:target="_blank"} for my graduate studies in Fall 2020.
 
 
