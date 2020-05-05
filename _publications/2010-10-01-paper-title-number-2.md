@@ -16,3 +16,4 @@ The [paper](https://openreview.net/forum?id=rkgfdeBYvH){:target="_blank"} has be
 
 Please find the below resources
 1. [Proceedings and paper](https://openreview.net/forum?id=rkgfdeBYvH){:target="_blank"}.
+2. [Video Presentation](https://iclr.cc/virtual_2020/poster_rkgfdeBYvH.html){:target="_blank"}.
