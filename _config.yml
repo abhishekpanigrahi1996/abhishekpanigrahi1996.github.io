@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Bangalore"
+locale                   : "Princeton, New Jersey"
 title                    : "Abhishek Panigrahi"
 title_separator          : "-"
 name                     : &name "Abhishek Panigrahi"
-description              : &description "Research Fellow at Microsoft Research India"
+description              : &description "Graduate Student at Princeton Unviversity"
 url                      : https://abhishekpanigrahi1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Abhishek Panigrahi"
   avatar           : "profile.jpg"
-  bio              : "Research Fellow at Microsoft Research India"
-  location         : "Bangalore"
+  bio              : "Graduate Student at Princeton University"
+  location         : "Princeton, New Jersey"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=oMhp8p8AAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "t-abpani@microsoft.com"
+  email            : "ap34@princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
