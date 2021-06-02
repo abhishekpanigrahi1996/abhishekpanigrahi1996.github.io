@@ -1,5 +1,5 @@
 ---
-title: "Learning anf Generalization in RNNs"
+title: "Learning and Generalization in RNNs"
 collection: publications
 permalink: /publications/2021-05-31-Generalization
 excerpt: 'The paper is in submission at an ML conference. An initial manuscript has been accepted at TOPML'21.'
