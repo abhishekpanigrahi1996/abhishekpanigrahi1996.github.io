@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2021-05-31-Generalization
 authors: 'Abhishek Panigrahi, Navin Goyal'
 excerpt: 'The paper has been accepted for <b>Poster</b> presentation.'
-venue: 'Neural Information Processing Systems 2021 (Neurips)'
+venue: 'Neural Information Processing Systems (Neurips)'
 date: 2021-05-31
 year: '2021'
 ---
