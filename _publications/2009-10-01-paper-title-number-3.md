@@ -16,3 +16,4 @@ The paper has been accepted for **Poster** presentation at the conference. A pre
 
 Please find the below resources
 1. [Proceedings and paper](https://openreview.net/forum?id=yr7nrY18Xu){:target="_blank"}.
+2. [Conference Talk](https://nips.cc/virtual/2021/poster/27878){:target="_blank"}. 
