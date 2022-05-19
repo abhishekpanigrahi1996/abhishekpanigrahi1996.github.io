@@ -2,7 +2,7 @@
 title: "Understanding Gradient Descent on  Edge of Stability in Deep Learning"
 collection: publications
 permalink: /publications/2015-10-01-paper-title-number-4
-date: 2019-05-13
+date: 2022-05-19
 venue: 'International Conference on Machine Learning (ICML)'
 year: '2022'
 excerpt: ''
