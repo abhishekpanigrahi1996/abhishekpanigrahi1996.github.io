@@ -6,7 +6,7 @@ date: 2022-05-19
 venue: 'International Conference on Machine Learning (ICML)'
 year: '2022'
 excerpt: ''
-authors: 'Sanjeev Arora, Zhiyuan Li, $\text{Abhishek Panigrahi}^{\alpha-\beta$}'
+authors: 'Sanjeev Arora, Zhiyuan Li, $\text{Abhishek Panigrahi}^{\alpha-\beta}$'
 
 
 ---
