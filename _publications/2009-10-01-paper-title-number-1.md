@@ -2,7 +2,7 @@
 title: "Word2Sense: Sparse Interpretable Word Embeddings"
 collection: publications
 permalink: /publications/2015-10-01-paper-title-number-1
-excerpt: 'The paper has been accepted for <b>Oral</b> presentation (270/3000 submissions <span style="color:red">≈ 9% Acceptance Rate</span>).'
+excerpt: '<b>Oral</b> presentation (270/3000 submissions <span style="color:red">≈ 9% Acceptance Rate</span>).'
 date: 2019-05-13
 venue: 'Association for Computational Linguistics (ACL)'
 year: '2019'
