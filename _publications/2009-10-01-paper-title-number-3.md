@@ -3,7 +3,6 @@ title: "Learning and Generalization in RNNs"
 collection: publications
 permalink: /publications/2021-05-31-Generalization
 authors: 'Abhishek Panigrahi, Navin Goyal'
-excerpt: 'The paper has been accepted for <b>Poster</b> presentation.'
 venue: 'Neural Information Processing Systems (NeurIPS)'
 date: 2021-05-31
 year: '2021'
