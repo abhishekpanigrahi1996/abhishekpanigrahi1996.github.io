@@ -8,7 +8,7 @@ date: 2021-05-31
 excerpt: ''
 year: '2021'
 paperurl: 'https://proceedings.neurips.cc/paper/2021/file/b04c387c8384ca083a71b8da516f65f6-Paper.pdf'
-bib: 'https://proceedings.neurips.cc/paper/2021/hash/b04c387c8384ca083a71b8da516f65f6-Abstract.html'
+bib: '[https://proceedings.neurips.cc/paper/2021/hash/b04c387c8384ca083a71b8da516f65f6-Abstract.html](https://proceedings.neurips.cc/paper/13238-/bibtex)'
 
 ---
 
