@@ -2,7 +2,6 @@
 title: "Effect of Activation Functions on the Training of Overparametrized Neural Nets"
 collection: publications
 permalink: /publications/2019-10-03-Activation
-excerpt: 'The paper has been accepted for <b>Poster</b> presentation.'
 authors: 'Abhishek Panigrahi, Abhishek Shetty, Navin Goyal'
 venue: 'International Conference on Learning Representations (ICLR)'
 paperurl: 'https://openreview.net/forum?id=rkgfdeBYvH'
