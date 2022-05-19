@@ -6,6 +6,7 @@ authors: 'Abhishek Panigrahi, Abhishek Shetty, Navin Goyal'
 venue: 'International Conference on Learning Representations (ICLR)'
 paperurl: 'https://openreview.net/forum?id=rkgfdeBYvH'
 date: 2019-12-20
+excerpt: ''
 year: '2020'
 ---
 
