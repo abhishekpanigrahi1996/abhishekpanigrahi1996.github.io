@@ -1,5 +1,5 @@
 ---
-title: "Understanding Gradient Descent on  Edge of Stability in Deep Learning"
+title: "On the SDEs and Scaling Rules for Adaptive Gradient Algorithms"
 collection: publications
 permalink: /publications/2015-10-01-paper-title-number-5
 date: 2022-09-17
