@@ -3,6 +3,9 @@ title: "Task-Specific Skill Localization in Fine-tuned Language Models"
 collection: publications
 permalink: /publications/2015-10-01-paper-title-number-5
 date: 2023-02-13
+venue: 'In submission'
+year: '2023'
+excerpt: ''
 authors: 'Abhishek Panigrahi$\text{ }^{*}$, Nikunj Saunshi$\text{ }^{*}$, Haoyu Zhao, Sanjeev Arora'
 paperurl: 'https://arxiv.org/pdf/2302.06600.pdf'
 
