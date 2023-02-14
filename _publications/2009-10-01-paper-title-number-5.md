@@ -7,7 +7,7 @@ venue: 'Neural Information Processing Systems (NeurIPS)'
 year: '2022'
 excerpt: ''
 authors: 'Sadhika Malladi$\text{ }^{*}$, Kaifeng Lyu$\text{ }^{*}$, Abhishek Panigrahi, Sanjeev Arora'
-
+paperurl: 'https://openreview.net/pdf?id=F2mhzjHkQP'
 
 ---
 
