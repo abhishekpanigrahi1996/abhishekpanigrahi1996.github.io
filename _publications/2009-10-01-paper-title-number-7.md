@@ -2,8 +2,10 @@
 title: "Do Transformers Parse while Predicting the Masked Word?"
 collection: publications
 permalink: /publications/2015-10-01-paper-title-number-7
-date: 2023-03-14
+date: 2023-02-13
 excerpt: ''
+venue: 'Empirical Methods in Natural Language Processing (EMNLP)'
+year: '2023'
 authors: 'Haoyu Zhao$\text{ }^{*}$, Abhishek Panigrahi$\text{ }^{*}$, Rong Ge, Sanjeev Arora'
 paperurl: 'https://arxiv.org/pdf/2303.08117.pdf'
 
