@@ -1,4 +1,3 @@
-
 ---
 title: "Progressive distillation induces an implicit curriculum"
 collection: publications

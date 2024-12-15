@@ -1,4 +1,3 @@
-
 ---
 title: "Inducing Robust Algorithmic Reasoning in Vision Language Models"
 collection: publications
