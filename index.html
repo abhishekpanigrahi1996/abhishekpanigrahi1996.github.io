@@ -9,6 +9,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
     
+    <style>
+      .paper-entry {
+        display: flex;
+        align-items: flex-start;       /* top-align image and text */
+        margin-bottom: 25px;
+      }
+      .paper-thumb img {
+        width: 140px;
+        border-radius: 8px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        margin-right: 20px;
+      }
+      .paper-info {
+        flex: 1;
+        text-align: left;              /* left-align text with image */
+        line-height: 1.4;
+      }
+      .papertitle {
+        font-weight: 600;
+        font-size: 1em;
+      }
+    </style>
+
   </head>
   
 
@@ -92,26 +115,19 @@
           </tr>
 
 
-          <tr style="vertical-align:middle;">
-            <!-- Figure / Thumbnail -->
-            <td style="width:22%;padding:8px;text-align:center;">
-              <a href="https://arxiv.org/abs/2503.01821">
-                <img src="images/cel.png" 
-                     alt="Context-Enhanced Learning figure" 
-                     style="width:100%;max-width:140px;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);margin:0;">
-              </a>
-            </td>
-          
-            <!-- Paper details -->
-            <td style="padding:8px 12px;width:78%;vertical-align:middle;">
+          <div class="paper-entry">
+            <a href="https://arxiv.org/abs/2503.01821" class="paper-thumb">
+              <img src="images/cel.png" alt="Context-Enhanced Learning figure">
+            </a>
+            <div class="paper-info">
               <span class="papertitle">On the Power of Context-Enhanced Learning in LLMs</span><br>
               Xingyu Zhu*, <strong>Abhishek Panigrahi</strong>*, Sanjeev Arora<br>
-              <em>International Conference on Machine Learning (ICML 2025)</em> 
+              <em>International Conference on Machine Learning (ICML 2025)</em>
               <span style="color:red;">(Spotlight)</span><br>
               <a href="https://arxiv.org/abs/2503.01821">arXiv</a> /
               <a href="https://github.com/princeton-pli/Context-Enhanced-Learning">code</a>
-            </td>
-          </tr>
+            </div>
+          </div>
 
 
             <tr>
